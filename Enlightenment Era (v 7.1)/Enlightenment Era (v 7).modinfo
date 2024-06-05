@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" version="7">
+<Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" version="7.1">
   <Properties>
     <Name>Enlightenment Era</Name>
-    <Teaser>Expands the tech tree to include the [COLOR_POSITIVE_TEXT]Enlightenment Era[ENDCOLOR]</Teaser>
+    <Teaser>Expands the tech tree to include the [COLOR_POSITIVE_TEXT]Enlightenment Era (Frank Mod)[ENDCOLOR]</Teaser>
     <Description>The Enlightenment Era was a period in which scientific thought advanced dramatically</Description>
     <Authors>Pouakai, JFD, Janboruta, Sukritact</Authors>
     <HideSetupGame>0</HideSetupGame>
