@@ -841,25 +841,33 @@
 		<!--========== Policy Updates =====================================-->
 		<!--===============================================================-->
 		<!--Cultural Centers-->
+		<!--
 		<Update>
 			<Where Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP"/>
 			<Set Text="[COLOR_POSITIVE_TEXT]Cultural Centers[ENDCOLOR][NEWLINE]Construct Cultural buildings 50% faster."/>
 		</Update>
+		-->
 		<!--Mercantilism-->
+		<!--
 		<Update>
 			<Where Tag="TXT_KEY_POLICY_MERCANTILISM_HELP"/>
 			<Set Text="[COLOR_POSITIVE_TEXT]Mercantilism[ENDCOLOR][NEWLINE]Purchasing items in Cities requires 25% less [ICON_GOLD] Gold. +1 [ICON_RESEARCH] Science from Gold buildings."/>
 		</Update>
+		-->
 		<!--Naval Tradition-->
+		<!--
 		<Update>
 			<Where Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP"/>
 			<Set Text="[COLOR_POSITIVE_TEXT]Naval Tradition[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness for each Harbor, Seaport, Lighthouse, or Drydock."/>
 		</Update>
+		-->
 		<!--Merchant Navy-->
+		<!--
 		<Update>
 			<Where Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP"/>
 			<Set Text="[COLOR_POSITIVE_TEXT]Merchant Navy[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold for each Harbor, Seaport, Lighthouse, or Drydock. +4 [ICON_PRODUCTION] Production and +4 [ICON_CULTURE] in the city with the East India Company."/>
 		</Update>
+		-->
 		<!--Capitalism-->
 		<Update>
 			<Where Tag="TXT_KEY_POLICY_CAPITALISM_HELP"/>
@@ -876,9 +884,11 @@
 			<Set Text="[COLOR_POSITIVE_TEXT]Young Pioneers[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Local Happiness from every Workshop, Cloth Mill, Factory, and Solar/Nuclear/Hydro Plant."/>
 		</Update>
 		<!--Fortified Borders-->
+		<!--
 		<Update>
 			<Where Tag="TXT_KEY_POLICY_FORTIFIED_BORDERS_HELP"/>
 			<Set Text="[COLOR_POSITIVE_TEXT]Fortified Borders[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Local Happiness from every Castle, Bastion, Arsenal, and Military Base."/>
 		</Update>
+		-->
 	</Language_en_US>
 </GameData>

@@ -16,7 +16,7 @@
 			<PolicyType>POLICY_MERCANTILISM</PolicyType>
 			<BuildingClassType>BUILDINGCLASS_EE_WEIGH_HOUSE</BuildingClassType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<YieldChange>1</YieldChange>
+			<YieldChange>2</YieldChange>
 		</Row>
 		<Row>
 			<PolicyType>POLICY_MERCHANT_NAVY</PolicyType>
@@ -64,11 +64,13 @@
 			<BuildingClassType>BUILDINGCLASS_EE_CLOTH_MILL</BuildingClassType>
 			<Happiness>1</Happiness>
 		</Row>
+		<!--
 		<Row>
 			<PolicyType>POLICY_FORTIFIED_BORDERS</PolicyType>
 			<BuildingClassType>BUILDINGCLASS_EE_BASTION</BuildingClassType>
 			<Happiness>1</Happiness>
 		</Row>
+		-->
 		<Row>
 			<PolicyType>POLICY_UNIVERSAL_HEALTHCARE_F</PolicyType>
 			<BuildingClassType>BUILDINGCLASS_EE_SUMMER_PALACE</BuildingClassType>
