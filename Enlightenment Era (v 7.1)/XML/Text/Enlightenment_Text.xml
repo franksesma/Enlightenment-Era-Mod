@@ -736,6 +736,7 @@
 			<Set Text="The Caravel is a fast naval exploration unit. It is the first unit which can enter Deep Ocean hexes. It is quick, giving it a promotion that gives it a good chance to withdraw to the rear before an enemy naval melee attack can occur. The Caravel has an enhanced sight radius, making it the eyes and ears of the mid-game navy. This sight bonus is lost if the Caravel is upgraded to a Destroyer."/>
 		</Update>
 		<!--Conquistador-->
+		<!--
 		<Update>
 			<Where Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_HELP"/>
 			<Set Text="Renaissance Era unit that specializes in scouting and colonizing overseas. Only Spain may build it. Replaces the Cuirassier, but is available earlier."/>
@@ -744,6 +745,7 @@
 			<Where Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_STRATEGY"/>
 			<Set Text="The Conquistador is a multi-purpose unit that is strong both on land and at sea. Replacing the Cuirassier but becoming available with Exploration instead of Imperialism, it is an exceptional scout on land with extra visibility. It also has the ability to found new cities, but only on a foreign continent that does not contain the Spanish capital. In the water, the Conquistador has the defensive embarkation promotion that allows it to better defend itself against naval units. It also suffers no penalty when attacking cities, unlike the Cuirassier."/>
 		</Update>
+		-->
 		<!--Nau-->
 		<Update>
 			<Where Tag="TXT_KEY_UNIT_HELP_PORTUGUESE_NAU"/>

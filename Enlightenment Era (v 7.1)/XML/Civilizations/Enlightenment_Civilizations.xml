@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<Civilization_UnitClassOverrides>
+		<!--
 		<Update>
 			<Where UnitType="UNIT_PORTUGUESE_NAU"/>
 			<Set UnitClassType="UNITCLASS_EE_CARRACK"/>
@@ -36,6 +37,7 @@
 				<UnitClassType>UNITCLASS_EE_SHIP_OF_THE_LINE</UnitClassType>
 			</Set>
 		</Update>
+		-->	
 		<Row>
 			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
 			<UnitClassType>UNITCLASS_EE_EXPLORER</UnitClassType>

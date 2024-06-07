@@ -181,6 +181,7 @@
 				<Cost>120</Cost>
 			</Set>
 		</Update>
+		<!--
 		<Update>
 			<Where Type="UNIT_SPANISH_CONQUISTADOR"/>
 			<Set>
@@ -193,6 +194,7 @@
 				<FaithCost>380</FaithCost>
 			</Set>
 		</Update>
+		-->
 		<Update>
 			<Where Type="UNIT_SWEDISH_CAROLEAN"/>
 			<Set>
@@ -382,10 +384,12 @@
 			<Where UnitType="UNIT_KOREAN_TURTLE_SHIP"/>
 			<Set UnitClassType="UNITCLASS_IRONCLAD"/>
 		</Update>
+		<!--
 		<Update>
 			<Where UnitType="UNIT_SPANISH_CONQUISTADOR"/>
 			<Set UnitClassType="UNITCLASS_CAVALRY"/>
 		</Update>
+		-->
 	</Unit_ClassUpgrades>
 	<Unit_FreePromotions>
 		<Update>

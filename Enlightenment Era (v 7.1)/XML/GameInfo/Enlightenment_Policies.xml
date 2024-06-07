@@ -3,10 +3,6 @@
 <GameData>
 	<PolicyBranchTypes>
 		<Update>
-			<Where Type="POLICY_BRANCH_EXPLORATION"/>
-			<Set EraPrereq="ERA_MEDIEVAL"/>
-		</Update>
-		<Update>
 			<Where Type="POLICY_BRANCH_RATIONALISM"/>
 			<Set EraPrereq="ERA_MEDIEVAL"/>
 		</Update>
